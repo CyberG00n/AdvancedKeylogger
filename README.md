@@ -1,2 +1,2 @@
 # AdvancedKeylogger
-Code for an advanced Keylogger.
+Code for an advanced keylogger malware in python.
