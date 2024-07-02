@@ -1,7 +1,7 @@
 
 </center>
 
-![Advanced Keylogger](../../Users/sg997/Downloads/Advanced_Keylogger.png)
+![Advanced Keylogger](https://i.ibb.co/qYr8r01/Advanced-Keylogger.png)
 
 </center>
 
@@ -19,9 +19,9 @@
 
 ***
 
-![](../../Users/sg997/Downloads/CodeLibraries.png)
+<img src="https://i.ibb.co/CVppN6Z/Code-Libraries.png" alt="drawing" width="500"/>
 
 This is all the libraries needed for the code to run properly. We have imported emailing as welll as pynput to listen for key presses. Furthermore we have imported scipy to record audio and crytography to encrpyt the data.
 
 
-<img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="file:///C:/Users/sg997/Downloads/Codevariable.png" alt="drawing" width="500"/>
