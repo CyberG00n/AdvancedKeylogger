@@ -83,7 +83,7 @@
 
 </center>
 
-#### This function is responsible for copy the clipboard. I added the try except in the event that whatever it tries to copy  is something that can't be pasted as a text(Slides, files, etc.), it doesn't end the program.
+#### This function is responsible for copy the clipboard. I added the try except in the event that whatever it tries to copy is something that can't be pasted as a text(Slides, files, etc.), it doesn't end the program.
 
 <center> 
 
@@ -99,7 +99,7 @@
 
 </center> 
 
-### Lastly, this function is responsible for taknig screenshots. Its basic but gets the job done. It saves the image to a png.
+### Lastly, this function is responsible for taking screenshots. Its basic but gets the job done. It saves the image to a png.
 
 <center> 
 

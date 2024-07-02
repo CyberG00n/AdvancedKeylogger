@@ -48,11 +48,6 @@
 
 #### This is all the base information, such as the name of the save file and how much time to record on the microphone.
 
-<center> 
-
-<img src="https://i.ibb.co/SV4mMNx/Down-Arrow.png" alt="Down-Arrow" border="0" width="50">
-
-</center>
 
 <center> 
 
