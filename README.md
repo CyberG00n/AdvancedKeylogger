@@ -35,16 +35,12 @@
 # Documentation
 ***
 
+####  This is all the libraries needed for the code to run properly. We have imported emailing as well as pynput to listen for key presses. Furthermore we have imported scipy to record audio and crytography to encrpyt the data.
+
 <center>
 <img src="https://i.ibb.co/CVppN6Z/Code-Libraries.png" alt="drawing" width="500"/>
 </center>
-<center> 
 
-<img src="https://i.ibb.co/Vxfp4ZN/Uparrow.png" alt="Uparrow" border="" width="50">
-
-</center>
-
-####  This is all the libraries needed for the code to run properly. We have imported emailing as well as pynput to listen for key presses. Furthermore we have imported scipy to record audio and crytography to encrpyt the data.
 
 #### This is all the base information, such as the name of the save file and how much time to record on the microphone.
 
